@@ -1,0 +1,9 @@
+
+UNIX (Linux)
+
+ls: Lista todos os arquivos do diretório
+cd: Entrar em uma pasta
+cd ..: Retornar para a pasta anterior
+mkdir: Cria um diretório
+rm: Remove um arquivo/diretório
+mv: Mover arquivos ou renomear pastas

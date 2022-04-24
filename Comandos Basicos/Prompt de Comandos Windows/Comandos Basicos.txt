@@ -1,0 +1,8 @@
+Windows 
+
+move: Mover arquivos ou renomear pastas
+md: Criar uma Nova pasta
+cd: Entrar em uma pasta
+cd..: Retornar para a pasta anterior
+del:  Deletar arquivos
+
